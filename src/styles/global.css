@@ -1,0 +1,19 @@
+@font-face {
+    font-family: crazy-titles;
+    src: url("../fonts/Pandimensional.ttf")
+}
+
+@font-face {
+    font-family: recoleta-light;
+    src: url("../fonts/Recoleta-Light.woff2")
+}
+
+body{
+    margin: 0 5px;
+}
+
+html {
+    background-color: thistle;
+    font-family: recoleta-light;
+    color: black;
+}
